@@ -1,2 +1,3 @@
-﻿  C867 PA.cpp
-  C867 PA.vcxproj -> C:\Users\Dylan\source\repos\C867 PA\x64\Debug\C867 PA.exe
+﻿  student.cpp
+C:\Users\Dylan\Documents\WGU PAs\C867 Scripting and Programming Applications\C867 PA\C867 PA\student.h(77): warning C4715: 'Student::getDegree': not all control paths return a value
+  C867 PA.vcxproj -> C:\Users\Dylan\Documents\WGU PAs\C867 Scripting and Programming Applications\C867 PA\x64\Debug\C867 PA.exe
